@@ -1,2 +1,2 @@
 # Exel_project
-exel projects 
+My First Project in Exel
