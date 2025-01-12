@@ -1,2 +1,4 @@
 # Exel_project
-My First Project in Exel
+"My first project in Excel was created to solve the problems mentioned below."
+
+
